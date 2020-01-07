@@ -8,11 +8,12 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class Money_flow extends AppCompatActivity implements inter_end{
+import Interface.inter_end;
+
+public class Money_flow extends AppCompatActivity implements inter_end {
 
     Button btn_lastok, btn_lastexit;
     TextView tv_1, tv_2, tv_3, tv_send, tv_state, tv_send2, tv_send3, tv_send4;

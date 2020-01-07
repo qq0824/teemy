@@ -11,6 +11,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import Interface.inter_end;
+
 public class CheckAccount extends AppCompatActivity implements inter_end {
 
     EditText et_pw;

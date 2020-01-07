@@ -7,6 +7,7 @@ public class Account{
     public String ID;
     public String Pw;
     public int Money;
+    //setAccount ass = new setAccount();
 
     public Account(String Account_Number, String Name, String ID, String Pw, int Money){
         this.Account_Number = Account_Number;
